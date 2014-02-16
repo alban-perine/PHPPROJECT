@@ -32,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="7" selection-start="16" selection-end="16" vertical-scroll-proportion="0.026642984" vertical-offset="0" max-vertical-offset="563">
+            <state line="1" column="7" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Compte-rendu.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Compte-rendu.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="25" selection-start="165" selection-end="165" vertical-scroll-proportion="0.106571935" vertical-offset="0" max-vertical-offset="563">
               <folding />
             </state>
           </provider>
@@ -63,15 +72,6 @@
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state line="9" column="8" selection-start="193" selection-end="193" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoload_classmap.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_classmap.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -159,6 +159,7 @@
         <option value="$PROJECT_DIR$/tests/MockConnection.php" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Compte-rendu.txt" />
       </list>
     </option>
   </component>
@@ -351,11 +352,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Model/FinderInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="7" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="405" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Routing/Route.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="984" max-vertical-offset="1545" />
@@ -683,7 +679,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="7" selection-start="16" selection-end="16" vertical-scroll-proportion="0.026642984" vertical-offset="0" max-vertical-offset="563">
+        <state line="1" column="7" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compte-rendu.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="25" selection-start="165" selection-end="165" vertical-scroll-proportion="0.106571935" vertical-offset="0" max-vertical-offset="150">
           <folding />
         </state>
       </provider>

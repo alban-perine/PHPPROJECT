@@ -1,0 +1,5 @@
+Projet réalisé par Anthony Thomas et Alban Perine
+
+La partie des tests unitaires ne marche pas.
+L'authentification pose quelques problemes.
+Le reste est implémenté. 

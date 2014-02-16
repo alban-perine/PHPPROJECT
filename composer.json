@@ -1,0 +1,12 @@
+{
+    "require": {
+        "willdurand/negotiation": "1.3.0",
+        "symfony/serializer": "2.4.1"
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require-dev": {
+        "fabpot/Goutte": "~1.0"
+    }
+}
